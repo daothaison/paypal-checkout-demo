@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ComposerJsonPluginSettings">
+    <unboundedVersionInspectionSettings>
+      <excludedPackages />
+    </unboundedVersionInspectionSettings>
+    <customRepositories />
+  </component>
+  <component name="ESLintProjectComponent">
+    <option name="eslintRcFile" value="$USER_HOME$/src/awesome_teacher/.eslintrc.json" />
+    <option name="eslintExecutable" value="$USER_HOME$/src/awesome_teacher/node_modules/eslint/bin/eslint.js" />
+    <option name="nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+</project>
